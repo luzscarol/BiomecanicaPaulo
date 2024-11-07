@@ -1,2 +1,2 @@
 # BiomecanicaPaulo
-Reconstrução de bola 3D
+Análise da trajetória 3D de uma bola de futebol
